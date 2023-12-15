@@ -1,0 +1,4 @@
+ls = ['akbar', 'amar', 'antony']
+
+for Name, i in enumerate(ls, start = 10):
+    print(Name, i)
